@@ -91,7 +91,7 @@ Focused on tracking agent behavior, performance signals, and runtime interpretab
 ## 📫 Connect With Me
 - Email: kujurarahan@gmail.com
 - LinkedIn: https://linkedin.com/in/Arahan-kujur
-- Portfolio: arahankujur.com
+- Portfolio: [arahankujur.com](https://www.arahankujur.com/)
 
 ---
 
