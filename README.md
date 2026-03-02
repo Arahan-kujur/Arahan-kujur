@@ -20,13 +20,6 @@
 - Python
 - C++
 
-### Tools & Frameworks
-- Unreal Engine
-- PyTorch
-- Git & GitHub
-- NumPy
-- LangChain
-
 ### Areas of Interest
 - Artificial Intelligence
 - Reinforcement Learning
@@ -93,21 +86,7 @@ Focused on tracking agent behavior, performance signals, and runtime interpretab
 
 ---
 
-## 📊 GitHub Stats
 
-
-![Arahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arahan-kujur&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arahan-kujur&layout=compact)
----
-
-## 🌱 Currently Learning
-- Advanced C++ for game development
-- Reinforcement Learning algorithms
-- AI system design
-- Research-oriented programming workflows
-
----
 
 ## 📫 Connect With Me
 - Email: kujurarahan@gmail.com
