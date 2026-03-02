@@ -4,27 +4,11 @@
 🚀 Interested in Artificial Intelligence, Reinforcement Learning, and Game Development  
 🧠 Currently learning C++, Python, Unreal Engine, and Machine Learning  
 
----
-
 ## 🚀 About Me
 - Building AI and game development projects from scratch  
 - Exploring Multi-Agent Reinforcement Learning and emergent communication  
 - Passionate about combining **AI + interactive simulations**  
 - Working toward a future career in Artificial Intelligence research  
-
----
-
-## 🔧 Tech Stack
-
-### Languages
-- Python
-- C++
-
-### Areas of Interest
-- Artificial Intelligence
-- Reinforcement Learning
-- Game Development
-- Simulation Systems
 
 ---
 
@@ -85,7 +69,19 @@ Focused on tracking agent behavior, performance signals, and runtime interpretab
 
 
 ---
+## 🔧 Tech Stack
 
+### Languages
+- Python
+- C++
+
+### Areas of Interest
+- Artificial Intelligence
+- Reinforcement Learning
+- Game Development
+- Simulation Systems
+
+---
 
 
 ## 📫 Connect With Me
