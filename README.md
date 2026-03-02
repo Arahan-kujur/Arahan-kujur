@@ -21,16 +21,12 @@ A research framework exploring emergent communication in Multi-Agent Reinforceme
 The project investigates how agents develop communication protocols under cooperation, competition, and uncertainty using reinforcement learning methods inspired by public-goods game dynamics and signaling theory.
 
 
----
-
 ### 📄 Premature Commitment Paper
 🔗 https://github.com/Arahan-kujur/premature-commitment-paper  
 
 Research investigating premature convergence and commitment behaviors in learning agents and decision systems.  
 The work studies how early policy locking affects long-term adaptability, generalization, and exploration efficiency in intelligent systems.
 
-
----
 
 ### 🔍 Interpretability Under Distribution Shift
 🔗 https://github.com/Arahan-kujur/interpretability-under-shift  
@@ -39,8 +35,6 @@ Research project studying model interpretability when machine learning systems e
 The goal is to analyze reliability and explanation stability when models operate outside training conditions.
 
 
----
-
 ### 🧩 Choice Between Partial Trajectories Reproduction
 🔗 https://github.com/Arahan-kujur/choice-between-partial-trajectories-reproduction  
 
@@ -48,7 +42,6 @@ A research-oriented reinforcement learning study examining agent decision-making
 The project explores behavioral reconstruction and preference learning from incomplete observations.
 
 
----
 
 ## 🚀 Engineering & System Projects
 
@@ -59,7 +52,6 @@ Core system architecture for experimental intelligent-agent infrastructure focus
 Designed as a foundational framework supporting secure agent interaction and extensible AI experimentation environments.
 
 
----
 
 ### 👁️ Argus Core
 🔗 https://github.com/Arahan-kujur/argus-core  
