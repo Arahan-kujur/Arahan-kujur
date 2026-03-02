@@ -95,9 +95,9 @@ Focused on tracking agent behavior, performance signals, and runtime interpretab
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arahan-kujur&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arahan-kujur&layout=compact)
 
 ---
 
