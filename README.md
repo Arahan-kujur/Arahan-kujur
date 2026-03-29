@@ -1,5 +1,5 @@
 # Hi, I'm Arahan Kujur 👋
-
+👶 15
 🎓 High School Student | Aspiring AI Researcher & Game Developer  
 🚀 Interested in Artificial Intelligence, Reinforcement Learning, and Game Development  
 🧠 Currently learning C++, Python, Unreal Engine, and Machine Learning  
