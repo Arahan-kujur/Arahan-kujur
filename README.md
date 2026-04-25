@@ -17,8 +17,8 @@
 ###  MARL Emergent Communication
 🔗 https://github.com/Arahan-kujur/marl-emergent-communication  
 
-A research framework exploring emergent communication in Multi-Agent Reinforcement Learning environments.  
-The project investigates how agents develop communication protocols under cooperation, competition, and uncertainty using reinforcement learning methods inspired by public-goods game dynamics and signaling theory.
+A research project investigating emergent communication in multi-agent reinforcement learning under partial observability. In a cooperative gridworld, two agents with limited vision must collect shared resources. We compare a no-communication baseline against conditions where agents exchange discrete messages, training all policies end-to-end with PPO. The project measures whether agents learn to leverage a communication channel for coordination, tracking reward, coordination success rate, message entropy, and message diversity across experimental conditions.
+
 
 
 ###  RL Adaptation Under Perturbations
