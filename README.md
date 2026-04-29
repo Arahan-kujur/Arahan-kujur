@@ -21,12 +21,12 @@ A research project investigating emergent communication in multi-agent reinforce
 
 
 
-###  RL Adaptation Under Perturbations
-🔗 https://github.com/Arahan-kujur/rl-adaptation-under-perturbations  
+### RL Decision Capacity Threshold
+🔗 https://github.com/Arahan-kujur/rl-decision-capacity-threshold  
 
-Research project investigating how reinforcement learning agents adapt under environmental perturbations and model uncertainty.  
-Focuses on robustness, policy stability, and generalization when agents encounter distribution shifts or noisy dynamics.  
-Explores techniques for improving adaptation in non-stationary environments, with an emphasis on bridging the gap between training conditions and real-world deployment.
+Research project studying how self-play reinforcement learning agents behave under asymmetric action-space perturbations.  
+Introduces the idea of decision capacity and shows a sharp threshold: removing all decision points causes rapid collapse under self-play, while preserving even a single decision stabilizes performance near equilibrium.  
+Includes experiments in Kuhn and Leduc Poker with statistical analysis, ablations (timing, severity), and a frozen baseline to isolate adaptation dynamics.
 
 
 ###  Interpretability Under Distribution Shift
